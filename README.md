@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [KellyOS][kellyos] (cute mod for Progressbar95) and a secret Discord bot project 👀
 - 🌱 I’m currently learning codes and codes
-- 🤔 I’m looking for help with translation project
+- 🌏 I’m currently offering help with translation project
 - 📫 How to reach me: Discord (NekoSam395#4961)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Hot chocolate is a good alternative for a coffee.
