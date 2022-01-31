@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning codes and codes
 - 🌏 I’m currently offering help with translation project
 - 📫 How to reach me: Discord (NekoSam395#4961)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Hot chocolate is a good alternative for a coffee.
+- 😄 Gender: Male
+- ⚡ Fun fact: Hot chocolate drink is a good alternative for a coffee.
 - 🥅 2022 Goals: Make a **successful** custom theme for **ALL** Longhorn pre-reset builds
 
 ### My social media:
