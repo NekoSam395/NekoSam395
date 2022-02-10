@@ -1,4 +1,4 @@
-### Hi there, NekoSam395 here! 😸
+# <p align="center">Hi there, NekoSam395 here! 😸</p>
 
   [![Twitter Follow](https://img.shields.io/twitter/follow/NekoSam395?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNekoSam395&screen_name=NekoSam395)
     [![Twitter Follow2](https://img.shields.io/twitter/follow/Longhorn_Story?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLonghorn_Story&screen_name=Longhorn_Story)
