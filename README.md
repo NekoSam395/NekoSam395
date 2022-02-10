@@ -5,7 +5,7 @@
 
 ## I'm a modder, gamer, translator, and theme developer!
 
-- 🔭 I’m currently working on [KellyOS][kellyos] (cute mod for Progressbar95) and a secret Discord bot project 👀
+- 🔭 I’m currently working on [KellyOS][kos] (cute mod for Progressbar95) and [KellyBot][kbot] project 👀
 - 🌱 I’m currently learning codes and codes
 - 🌏 I’m currently offering help with translation project
 - 📫 How to reach me: Discord (NekoSam395#4961)
@@ -21,5 +21,6 @@
 
 </details>
 
-[kellyos]: https://github.com/NekoSam395/KellyOS
+[kos]: https://github.com/NekoSam395/KellyOS
 [twitter]: https://twitter.com/NekoSam395
+[kbot]: https://github.com/NekoSam395/KellyBot
