@@ -9,13 +9,12 @@
 ## I'm a modder, gamer, translator, and theme developer!
 <div align="left">
 
-- 🔭 I’m currently working on [KellyOS][kos] (cute mod for Progressbar95)
+- 🔭 I’m currently working on [Neko-chan OS (temporal name)][kos] (cute mod for Progressbar95)
 - 🌱 I’m currently learning codes and codes
 - 🌏 I’m currently offering help with translation project
 - 📫 How to reach me: Discord (NekoSam395#6017)
 - 😄 Gender: Male
 - ⚡ Fun fact: Hot chocolate drink is a good alternative for a coffee.
-- 🥅 2022 Goals: KELLYOS!!!
 
 <div align="center">
 My social media:
