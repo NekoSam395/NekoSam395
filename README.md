@@ -1,5 +1,5 @@
 <div align="center">
-<img width="175px" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/grinning-cat-with-smiling-eyes_1f638.png](https://em-content.zobj.net/source/microsoft-teams/337/grinning-cat-with-smiling-eyes_1f638.png"/>
+<img width="175px" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/grinning-cat-with-smiling-eyes_1f638.png"/>
 
 ## NYAAAAA~~~!!! I'm NekoSam395! <img width="32px" src="https://cdn.discordapp.com/attachments/889898536550940702/1006360772030517329/kelly.png"/> </p>
 
