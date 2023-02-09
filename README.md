@@ -1,5 +1,5 @@
 <div align="center">
-<img width="175px" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/grinning-cat-with-smiling-eyes_1f638.png"/>
+<img width="175px" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/grinning-cat-with-smiling-eyes_1f638.png](https://em-content.zobj.net/source/microsoft-teams/337/grinning-cat-with-smiling-eyes_1f638.png"/>
 
 ## NYAAAAA~~~!!! I'm NekoSam395! <img width="32px" src="https://cdn.discordapp.com/attachments/889898536550940702/1006360772030517329/kelly.png"/> </p>
 
@@ -9,7 +9,7 @@
 ## I'm a modder, gamer, translator, and theme developer!
 <div align="left">
 
-- 🔭 I’m currently working on [Neko-chan OS (temporal name)][kos] (cute mod for Progressbar95)
+- 🔭 I’m currently working on [NechakyuOS][nckos] (cute mod for Progressbar95)
 - 🌱 I’m currently learning codes and codes
 - 🌏 I’m currently offering help with translation project
 - 📫 How to reach me: Discord (NekoSam395#6017)
@@ -25,5 +25,5 @@ My social media:
 
 </details>
 
-[kos]: https://github.com/NekoSam395/KellyOS
+[nckos]: https://github.com/NekoSam395/NechakyuOS
 [twitter]: https://twitter.com/NekoSam395
