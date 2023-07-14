@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [NechakyuOS][nckos] (cute mod for Progressbar95)
 - 🌱 I’m currently learning codes and codes
 - 🌏 I’m currently offering help with translation project
-- 📫 How to reach me: Discord (NekoSam395#6017)
+- 📫 How to reach me: Discord (NekoSam395)
 - 😄 Gender: Male
 - ⚡ Fun fact: Hot chocolate drink is a good alternative for a coffee.
 
