@@ -18,11 +18,11 @@
 <div align="center">
 My social media:
 
-[<img align="center" alt="NekoSam395 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="NekoSam395 | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][x]
 <br />
 ---
 
 </details>
 
 [nckos]: https://github.com/NekoSam395/NechakyuOS
-[twitter]: https://twitter.com/NekoSam395
+[x]: https://x.com/NekoSam395
