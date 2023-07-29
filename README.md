@@ -18,7 +18,7 @@
 <div align="center">
 My social media:
 
-[<img align="center" alt="NekoSam395 | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][x]
+[<img align="center" alt="NekoSam395 | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg" />][x]
 <br />
 ---
 
