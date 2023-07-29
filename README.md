@@ -3,7 +3,7 @@
 
 ## NYAAAAA~~~!!! I'm NekoSam395! <img width="32px" src="https://cdn.discordapp.com/attachments/889898536550940702/1006360772030517329/kelly.png"/> </p>
 
-  [![Twitter Follow](https://img.shields.io/twitter/follow/NekoSam395?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNekoSam395&screen_name=NekoSam395)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/NekoSam395?color=1DA1F2&logo=x&style=for-the-badge)](https://x.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNekoSam395&screen_name=NekoSam395)
 
 ## I'm a modder, gamer, translator, and theme developer!
 <div align="left">
@@ -18,7 +18,7 @@
 <div align="center">
 My social media:
 
-[<img align="center" alt="NekoSam395 | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg" />][x]
+[<img align="center" alt="NekoSam395 | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][x]
 <br />
 ---
 
