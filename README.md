@@ -1,7 +1,7 @@
 <div align="center">
 <img width="175px" src="https://em-content.zobj.net/source/microsoft-teams/337/grinning-cat-with-smiling-eyes_1f638.png"/>
 
-## NYAAAAA~~~!!! I'm NekoSam395! <img width="32px" src="https://cdn.discordapp.com/attachments/889898536550940702/1006360772030517329/kelly.png"/> </p>
+## NYAAAAA~~~!!! I'm NekoSam395! <img width="32px" src="https://em-content.zobj.net/source/microsoft-3D-fluent/406/grinning-cat-with-smiling-eyes_1f638.png"/> </p>
 
   [![Twitter Follow](https://img.shields.io/twitter/follow/NekoSam395?color=1DA1F2&logo=x&style=for-the-badge)](https://x.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNekoSam395&screen_name=NekoSam395)
 
