@@ -3,9 +3,7 @@
 
 ## NYAAAAA~~~!!! I'm NekoSam395! <img width="32px" src="https://em-content.zobj.net/source/microsoft-3D-fluent/406/grinning-cat-with-smiling-eyes_1f638.png"/> </p>
 
-  [![Twitter Follow](https://img.shields.io/twitter/follow/NekoSam395?color=1DA1F2&logo=x&style=for-the-badge)](https://x.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNekoSam395&screen_name=NekoSam395)
-
-## I'm a modder, gamer, translator, and theme developer!
+Im a modder, gamer, translator, and theme developer!
 <div align="left">
 
 - 🔭 I’m currently working on [NechakyuOS][nckos] (cute mod for Progressbar95)
@@ -18,11 +16,11 @@
 <div align="center">
 My social media:
 
-[<img align="center" alt="NekoSam395 | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][x]
+[<img align="center" alt="NekoSam395 | bluesky" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bluesky.svg" />][x]
 <br />
 ---
 
 </details>
 
 [nckos]: https://github.com/NekoSam395/NechakyuOS
-[x]: https://x.com/NekoSam395
+[x]: https://nekosam395.bsky.social
