@@ -16,11 +16,11 @@ Im a modder, gamer, translator, and theme developer!
 <div align="center">
 My social media:
 
-[<img align="center" alt="NekoSam395 | bluesky" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bluesky.svg" />][x]
+[<img align="center" alt="NekoSam395 | Bluesky" width="50px" src="https://cdn.simpleicons.org/bluesky/987777">][bluesky]
 <br />
 ---
 
 </details>
 
 [nckos]: https://github.com/NekoSam395/NechakyuOS
-[x]: https://nekosam395.bsky.social
+[bluesky]: https://nekosam395.bsky.social
